@@ -28,10 +28,10 @@
 }
 
 .overview .latest-transaction .game-title{
-    white-space: nowrap; 
-    width: 135px; 
+    white-space: nowrap;
+    width: 135px;
     overflow: hidden;
-    text-overflow: ellipsis; 
+    text-overflow: ellipsis;
 }
 
 .overview .table>:not(caption)>*>*{
